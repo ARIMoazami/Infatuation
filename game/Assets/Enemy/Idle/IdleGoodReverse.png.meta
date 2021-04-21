@@ -1,0 +1,847 @@
+fileFormatVersion: 2
+guid: 038f61070071cd444887bce9906a91a9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5095675524133514720
+    second: IdleGoodReverse_0
+  - first:
+      213: 4740268343866566735
+    second: IdleGoodReverse_1
+  - first:
+      213: -3051287908925988184
+    second: IdleGoodReverse_2
+  - first:
+      213: -5431526425357837578
+    second: IdleGoodReverse_3
+  - first:
+      213: -2643275217806800408
+    second: IdleGoodReverse_4
+  - first:
+      213: -518742311331987796
+    second: IdleGoodReverse_5
+  - first:
+      213: -8920567059791242804
+    second: IdleGoodReverse_6
+  - first:
+      213: 6491665700493530034
+    second: IdleGoodReverse_7
+  - first:
+      213: 6983989899039180179
+    second: IdleGoodReverse_8
+  - first:
+      213: -2236092302218358517
+    second: IdleGoodReverse_9
+  - first:
+      213: 3352493602499199113
+    second: IdleGoodReverse_10
+  - first:
+      213: 7822809369624766152
+    second: IdleGoodReverse_11
+  - first:
+      213: -482227142800441608
+    second: IdleGoodReverse_12
+  - first:
+      213: 1415268832533237837
+    second: IdleGoodReverse_13
+  - first:
+      213: -7477636220776968642
+    second: IdleGoodReverse_14
+  - first:
+      213: -1763494524501401050
+    second: IdleGoodReverse_15
+  - first:
+      213: -8484834537015681892
+    second: IdleGoodReverse_16
+  - first:
+      213: 4257372567359968140
+    second: IdleGoodReverse_17
+  - first:
+      213: 8594298485584382760
+    second: IdleGoodReverse_18
+  - first:
+      213: -1105266747491781533
+    second: IdleGoodReverse_19
+  - first:
+      213: 8206183449941184877
+    second: IdleGoodReverse_20
+  - first:
+      213: -3469542513448166003
+    second: IdleGoodReverse_21
+  - first:
+      213: 5505516394629772719
+    second: IdleGoodReverse_22
+  - first:
+      213: -7724091951582711986
+    second: IdleGoodReverse_23
+  - first:
+      213: 6021465511521043996
+    second: IdleGoodReverse_24
+  - first:
+      213: 4907301949136828483
+    second: IdleGoodReverse_25
+  - first:
+      213: -6016453818160412540
+    second: IdleGoodReverse_26
+  - first:
+      213: -6367356272381725130
+    second: IdleGoodReverse_27
+  - first:
+      213: -7667702768213474935
+    second: IdleGoodReverse_28
+  - first:
+      213: 4716349027818805727
+    second: IdleGoodReverse_29
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IdleGoodReverse_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 960
+        width: 96
+        height: 189
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ed0f8b1dda53a4fa8407a5e4d219f9
+      internalID: -5095675524133514720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleGoodReverse_1
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 960
+        width: 96
+        height: 189
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e22d3b3bf864e243869273bc39f0deb
+      internalID: 4740268343866566735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleGoodReverse_2
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 960
+        width: 96
+        height: 189
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0b74c66b43365f4aadd7ca29d1e5caf
+      internalID: -3051287908925988184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleGoodReverse_3
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 960
+        width: 96
+        height: 189
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61f0a10e0d07694498ef6e7f808f8e4a
+      internalID: -5431526425357837578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleGoodReverse_4
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 960
+        width: 96
+        height: 189
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614a5cee5b60eab4b8e0136551662c81
+      internalID: -2643275217806800408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleGoodReverse_5
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 768
+        width: 96
+        height: 189
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94d2f53a3cc83945b55d26e780524e0
+      internalID: -518742311331987796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleGoodReverse_6
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 768
+        width: 96
+        height: 189
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cbf1af7fc319a247a78e439ee022b89
+      internalID: -8920567059791242804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleGoodReverse_7
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 768
+        width: 96
+        height: 189
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d943bc6841a492a40b8fee82e59abc57
+      internalID: 6491665700493530034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleGoodReverse_8
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 768
+        width: 96
+        height: 189
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7761a58c8d2504499efefea11f4b56
+      internalID: 6983989899039180179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleGoodReverse_9
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 768
+        width: 96
+        height: 189
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a0635ff6deea0744b55617e788584db
+      internalID: -2236092302218358517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleGoodReverse_10
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 576
+        width: 96
+        height: 189
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9961c48f688954a976700873cdf152
+      internalID: 3352493602499199113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleGoodReverse_11
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 576
+        width: 96
+        height: 189
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843e4d379fe154d48b7cc0feff7820aa
+      internalID: 7822809369624766152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleGoodReverse_12
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 576
+        width: 96
+        height: 189
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9487293211740b4e8d990f4e85cc060
+      internalID: -482227142800441608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleGoodReverse_13
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 576
+        width: 96
+        height: 189
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3b555df59ed074a99b53d367c411a9
+      internalID: 1415268832533237837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleGoodReverse_14
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 576
+        width: 96
+        height: 189
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5940bda0e29a1e34b823c8bdd4456465
+      internalID: -7477636220776968642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleGoodReverse_15
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 384
+        width: 96
+        height: 186
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca4c89815698d7439ea2e7ab96fec54
+      internalID: -1763494524501401050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleGoodReverse_16
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 384
+        width: 96
+        height: 186
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d3697a7deb5b84588268abf6287daa
+      internalID: -8484834537015681892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleGoodReverse_17
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 384
+        width: 96
+        height: 186
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d4b0b0f0507e04894327b7eb791fd2
+      internalID: 4257372567359968140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleGoodReverse_18
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 384
+        width: 96
+        height: 186
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 753b627a491cd1c44a97984d94267701
+      internalID: 8594298485584382760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleGoodReverse_19
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 384
+        width: 96
+        height: 186
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b92edd1f4440947b95c1c7354a48f2
+      internalID: -1105266747491781533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleGoodReverse_20
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 192
+        width: 96
+        height: 186
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee86ecde6ad36af41b8c9e7186d7f7a4
+      internalID: 8206183449941184877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleGoodReverse_21
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 192
+        width: 96
+        height: 186
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 969230b00e93bfb4d84ffc73530b3506
+      internalID: -3469542513448166003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleGoodReverse_22
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 192
+        width: 96
+        height: 186
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8252cdbe5b063e44dbdde8cce99c7728
+      internalID: 5505516394629772719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleGoodReverse_23
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 192
+        width: 96
+        height: 186
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6d5128c737abb468176d769e7344e5
+      internalID: -7724091951582711986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleGoodReverse_24
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 192
+        width: 96
+        height: 186
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90ae96617ac08a74b8da11eb5ef33073
+      internalID: 6021465511521043996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleGoodReverse_25
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 0
+        width: 96
+        height: 189
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3182e5233a1aaa48b642bf4d1b10f6d
+      internalID: 4907301949136828483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleGoodReverse_26
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 0
+        width: 96
+        height: 189
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f2f2d69f6b5b647a2236e1e73869ed
+      internalID: -6016453818160412540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleGoodReverse_27
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 0
+        width: 96
+        height: 186
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6984b8e27b64e2a4eb2bd9a7276406b0
+      internalID: -6367356272381725130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleGoodReverse_28
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 0
+        width: 96
+        height: 186
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8317496542640e040be687e3d27ce1a6
+      internalID: -7667702768213474935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: IdleGoodReverse_29
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 0
+        width: 96
+        height: 186
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f16d464facbb1d44bf91c7bf8e5d866
+      internalID: 4716349027818805727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -4,11 +4,13 @@ using UnityEngine;
 
 public class Movement : MonoBehaviour
 {
+    public Transform firePoint;
     public Animator Anim;
     public KeyCode Jump;
     public KeyCode RightMove;
     public KeyCode LeftMove;
     public KeyCode Shoot;
+    public GameObject bulletPrefab;
     public bool Walking = false;
     public float MoveSpeed = 5f;
 
@@ -49,6 +51,8 @@ public class Movement : MonoBehaviour
         if (Input.GetKeyUp(Shoot))
         {
             Anim.Play("Shooting");
+            Instantiate(bulletPrefab, firePoint.position, firePoint.rotation);
+
         }
 
         //if shoot key is released
